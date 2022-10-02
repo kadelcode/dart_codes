@@ -35,6 +35,15 @@ void main() {
   x += y; // x = x + y;
   x -= y; // x = x - y;
 
+
+  /* ______________RELATIONAL OPERATORS_________________*/
+  x < y; // Less than
+  x > y; // Greater than
+  y >= x; // Greater than or equal to
+  x <= y; // Less than or equal to
+  x == y; // Equal to
+  x != y; // Not equal to
+
   print(x);
   print(c);
 }
