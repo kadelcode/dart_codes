@@ -44,6 +44,17 @@ void main() {
   x == y; // Equal to
   x != y; // Not equal to
 
-  print(x);
-  print(c);
+  /* ______________LOGICAL OPERATORS_________________*/
+  (x < y) && (y > x); // Logical AND
+  (x < y) || (y > x); // Logical OR
+  (!(x < y)); // Logical NOT
+
+
+  /* ______________BITWISE OPERATORS_________________*/
+  a & b; // Bitwise AND
+  a | b; // Bitwise OR
+  a ^ b; // Bitwise XOR
+  print(~(a)); // Bitwise NOT
+  a << b; // Left shift
+  a >> b; // Right shift
 }
