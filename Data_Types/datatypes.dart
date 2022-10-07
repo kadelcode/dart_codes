@@ -23,6 +23,11 @@ void main() {
   var love_emoji = "\u2665";
   var smile_emoji = "\u{1f600}";
 
+  // Dynamic
+  dynamic y = 'Mango';
+  y = 30;
+  print(y);
+
   print(love_emoji);
   print(smile_emoji);
 
