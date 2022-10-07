@@ -21,3 +21,7 @@
 -   Syntax
     - condition ? exp1 : exp2 (if condition is true, return exp1 else return exp2)
     - exp1 ?? exp2 (if exp1 is not NULL, return exp1 else return exp2)
+
+## Cascade Notation Operators(..)
+-   Cascades(..) allow you to perform sequence/series of operations on the same object
+-   It is identical to method chaining that avoids several of steps and the need of temporary variable
