@@ -2,6 +2,6 @@
 -   Control statements are used to control the flow of Dart program
 
 ## Categories of Flow Statement
--   Decision-making statements
--   Looping statements
--   Jump statements
+-   Decision-making statements(if, if...else, if else if, switch...case)
+-   Looping statements(while, do...while, for)
+-   Jump statements(break, continue)
