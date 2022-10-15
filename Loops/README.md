@@ -25,7 +25,7 @@
 	}
 	```
 
-## [while loop]
+## [while loop](https://github.com/kadelcode/dart_codes/blob/main/Loops/while_loop.dart)
 - The while loop executes a block of code until the given test condition is false
 - ### Syntax
 	```
