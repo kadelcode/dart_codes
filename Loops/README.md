@@ -13,8 +13,17 @@
 	```
 	for (initialization; condition; increament/decrement) {
 		// block of code to be executed
-		}
+	}
 	```
+
 ## [for...in loop]
+- The for...in loop iterates over elements in an iterable(sequence)
+- ### Syntax
+	```
+	for ( var i in object\sequence) {
+		// block of code to be executed
+	}
+	```
+
 ## [while loop]
 ## [do-while loop]
