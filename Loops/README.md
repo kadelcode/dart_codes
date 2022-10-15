@@ -10,10 +10,11 @@
 ## [for loop]
 - The for loop is used when we know the number of iteration in advance
 - ### Syntax
-	``` for (initialization; condition; increament/decrement) {
-			// block of code to be executed
+	```
+	for (initialization; condition; increament/decrement) {
+		// block of code to be executed
 		}
-		```
+	```
 ## [for...in loop]
 ## [while loop]
 ## [do-while loop]
