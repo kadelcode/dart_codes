@@ -26,4 +26,11 @@
 	```
 
 ## [while loop]
+- The while loop executes a block of code until the given test condition is false
+- ### Syntax
+	```
+	while(condition) {
+		// code to be executed provided the condition is true
+	}
+	```
 ## [do-while loop]
