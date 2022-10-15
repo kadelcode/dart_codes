@@ -7,7 +7,7 @@
 * while loop
 * do-while loop
 
-## [for loop] (https://github.com/kadelcode/dart_codes/blob/main/Loops/for_loop.dart)`
+## [for loop] (https://github.com/kadelcode/dart_codes/blob/main/Loops/for_loop.dart)
 - The for loop is used when we know the number of iteration in advance
 - ### Syntax
 	```
