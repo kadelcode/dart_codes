@@ -33,4 +33,12 @@
 		// code to be executed provided the condition is true
 	}
 	```
+
 ## [do-while loop]
+- It's similar to the while loop but first executes the loop statement and then check for the test condition
+- ### Syntax
+	```
+	do {
+		// loop body
+	}while(condition);
+	```
